@@ -31,4 +31,4 @@ while(pontos < 100) {
 }
 
 alert("Parabéns, você tirou mais 100 pontos");
-alert(`Foram ${tentativas} tentativas`);
+alert(`Foram ${tentativas} tentativas!`);
